@@ -17,8 +17,10 @@ const App = () => {
     //     <PrimaryButton borderColor="blue">Button Inside the Div</PrimaryButton>
     //   </PrimaryDiv>
     // </>
-
-    <ToDo></ToDo>
+    <>
+      <ToDo></ToDo>
+      <ToDo />
+    </>
   );
 };
 
